@@ -1,0 +1,603 @@
+{
+  "cryptocurrenciesList" : [ {
+    "ticker" : "BTC",
+    "name" : "Bitcoin",
+    "price" : 7647.25,
+    "changes" : -4.58,
+    "marketCapitalization" : 138113000000
+  }, {
+    "ticker" : "ETH",
+    "name" : "Ethereum",
+    "price" : 161.622,
+    "changes" : -7.93,
+    "marketCapitalization" : 17559100000
+  }, {
+    "ticker" : "XRP",
+    "name" : "Ripple",
+    "price" : 0.243974,
+    "changes" : -2.9,
+    "marketCapitalization" : 10564100000
+  }, {
+    "ticker" : "BCH",
+    "name" : "Bitcoin Cash",
+    "price" : 226.848,
+    "changes" : -6.85,
+    "marketCapitalization" : 4111780000
+  }, {
+    "ticker" : "EOS",
+    "name" : "EOS",
+    "price" : 2.82142,
+    "changes" : -8.87,
+    "marketCapitalization" : 2655420000
+  }, {
+    "ticker" : "LTC",
+    "name" : "Litecoin",
+    "price" : 50.8658,
+    "changes" : -7.87,
+    "marketCapitalization" : 3241710000
+  }, {
+    "ticker" : "ADA",
+    "name" : "Cardano",
+    "price" : 0.0384679,
+    "changes" : -6.29,
+    "marketCapitalization" : 997361000
+  }, {
+    "ticker" : "XLM",
+    "name" : "Stellar",
+    "price" : 0.0618675,
+    "changes" : -4.99,
+    "marketCapitalization" : 1240740000
+  }, {
+    "ticker" : "MIOTA",
+    "name" : "IOTA",
+    "price" : 0.227719,
+    "changes" : -5.71,
+    "marketCapitalization" : 632952000
+  }, {
+    "ticker" : "TRX",
+    "name" : "TRON",
+    "price" : 0.0154217,
+    "changes" : -7.04,
+    "marketCapitalization" : 1028350000
+  }, {
+    "ticker" : "NEO",
+    "name" : "NEO",
+    "price" : 11.0641,
+    "changes" : -3.79,
+    "marketCapitalization" : 780449000
+  }, {
+    "ticker" : "DASH",
+    "name" : "Dash",
+    "price" : 60.5676,
+    "changes" : -5.51,
+    "marketCapitalization" : 555151000
+  }, {
+    "ticker" : "XMR",
+    "name" : "Monero",
+    "price" : 54.1824,
+    "changes" : -6.81,
+    "marketCapitalization" : 938372000
+  }, {
+    "ticker" : "XEM",
+    "name" : "NEM",
+    "price" : 0.0382541,
+    "changes" : -4.8,
+    "marketCapitalization" : 344287000
+  }, {
+    "ticker" : "VEN",
+    "name" : "VeChain",
+    "price" : 1.73492,
+    "changes" : -13.36,
+    "marketCapitalization" : 962093000
+  }, {
+    "ticker" : "ETC",
+    "name" : "Ethereum Classic",
+    "price" : 4.18951,
+    "changes" : -4.04,
+    "marketCapitalization" : 482924000
+  }, {
+    "ticker" : "USDT",
+    "name" : "Tether",
+    "price" : 1.00036,
+    "changes" : -0.39,
+    "marketCapitalization" : 4109520000
+  }, {
+    "ticker" : "QTUM",
+    "name" : "Qtum",
+    "price" : 1.78452,
+    "changes" : -6.32,
+    "marketCapitalization" : 171637000
+  }, {
+    "ticker" : "OMG",
+    "name" : "OmiseGO",
+    "price" : 0.823065,
+    "changes" : -7.45,
+    "marketCapitalization" : 115431000
+  }, {
+    "ticker" : "ICX",
+    "name" : "ICON",
+    "price" : 0.143967,
+    "changes" : -8.24,
+    "marketCapitalization" : 72756900
+  }, {
+    "ticker" : "BNB",
+    "name" : "Binance Coin",
+    "price" : 16.8276,
+    "changes" : -7.22,
+    "marketCapitalization" : 2617310000
+  }, {
+    "ticker" : "LSK",
+    "name" : "Lisk",
+    "price" : 0.698017,
+    "changes" : -7.59,
+    "marketCapitalization" : 84888300
+  }, {
+    "ticker" : "BTG",
+    "name" : "Bitcoin Gold",
+    "price" : 6.94072,
+    "changes" : -6.61,
+    "marketCapitalization" : 121559000
+  }, {
+    "ticker" : "NANO",
+    "name" : "Nano",
+    "price" : 0.862982,
+    "changes" : -4.03,
+    "marketCapitalization" : 114991000
+  }, {
+    "ticker" : "BCN",
+    "name" : "Bytecoin",
+    "price" : 3.13869E-4,
+    "changes" : -9.29,
+    "marketCapitalization" : 57772900
+  }, {
+    "ticker" : "XVG",
+    "name" : "Verge",
+    "price" : 0.00398566,
+    "changes" : -5.13,
+    "marketCapitalization" : 64025700
+  }, {
+    "ticker" : "ZEC",
+    "name" : "Zcash",
+    "price" : 31.373,
+    "changes" : -7.41,
+    "marketCapitalization" : 247914000
+  }, {
+    "ticker" : "ONT",
+    "name" : "Ontology",
+    "price" : 0.670554,
+    "changes" : -6.69,
+    "marketCapitalization" : 427379000
+  }, {
+    "ticker" : "AE",
+    "name" : "Aeternity",
+    "price" : 0.176163,
+    "changes" : -8.24,
+    "marketCapitalization" : 51395600
+  }, {
+    "ticker" : "STEEM",
+    "name" : "Steem",
+    "price" : 0.14728,
+    "changes" : -2.89,
+    "marketCapitalization" : 51747800
+  }, {
+    "ticker" : "ZIL",
+    "name" : "Zilliqa",
+    "price" : 0.00539585,
+    "changes" : -9.17,
+    "marketCapitalization" : 46875700
+  }, {
+    "ticker" : "WAN",
+    "name" : "Wanchain",
+    "price" : 0.421985,
+    "changes" : 4.98,
+    "marketCapitalization" : 44794800
+  }, {
+    "ticker" : "SC",
+    "name" : "Siacoin",
+    "price" : 0.00164967,
+    "changes" : -9.87,
+    "marketCapitalization" : 68984200
+  }, {
+    "ticker" : "BTS",
+    "name" : "BitShares",
+    "price" : 0.0223001,
+    "changes" : -6.76,
+    "marketCapitalization" : 61287200
+  }, {
+    "ticker" : "BTM",
+    "name" : "Bytom",
+    "price" : 0.0878943,
+    "changes" : -5.15,
+    "marketCapitalization" : 88113900
+  }, {
+    "ticker" : "ZRX",
+    "name" : "0x",
+    "price" : 0.262731,
+    "changes" : 0.63,
+    "marketCapitalization" : 158178000
+  }, {
+    "ticker" : "BCD",
+    "name" : "Bitcoin Diamond",
+    "price" : 0.401277,
+    "changes" : -8.65,
+    "marketCapitalization" : 74835200
+  }, {
+    "ticker" : "PPT",
+    "name" : "Populous",
+    "price" : 1.17872,
+    "changes" : 5.4,
+    "marketCapitalization" : 62769500
+  }, {
+    "ticker" : "STRAT",
+    "name" : "Stratis",
+    "price" : 0.605062,
+    "changes" : -0.04,
+    "marketCapitalization" : 60156000
+  }, {
+    "ticker" : "WAVES",
+    "name" : "Waves",
+    "price" : 0.659817,
+    "changes" : -7.98,
+    "marketCapitalization" : 66242900
+  }, {
+    "ticker" : "BTCP",
+    "name" : "Bitcoin Private",
+    "price" : 1.73003,
+    "changes" : -0.18,
+    "marketCapitalization" : 35508000
+  }, {
+    "ticker" : "MKR",
+    "name" : "Maker",
+    "price" : 528.556,
+    "changes" : -9.31,
+    "marketCapitalization" : 528556000
+  }, {
+    "ticker" : "RHOC",
+    "name" : "RChain",
+    "price" : 0.178417,
+    "changes" : 40.61,
+    "marketCapitalization" : 66690500
+  }, {
+    "ticker" : "DCR",
+    "name" : "Decred",
+    "price" : 18.6371,
+    "changes" : -7.77,
+    "marketCapitalization" : 199567000
+  }, {
+    "ticker" : "GNT",
+    "name" : "Golem",
+    "price" : 0.0506761,
+    "changes" : 8.09,
+    "marketCapitalization" : 49665100
+  }, {
+    "ticker" : "DOGE",
+    "name" : "Dogecoin",
+    "price" : 0.0024291,
+    "changes" : -4.8,
+    "marketCapitalization" : 296707000
+  }, {
+    "ticker" : "SNT",
+    "name" : "Status",
+    "price" : 0.0142675,
+    "changes" : -3.29,
+    "marketCapitalization" : 49515100
+  }, {
+    "ticker" : "HSR",
+    "name" : "Hshare",
+    "price" : 2.13033,
+    "changes" : -7.3,
+    "marketCapitalization" : 92721900
+  }, {
+    "ticker" : "IOST",
+    "name" : "IOStoken",
+    "price" : 0.005495,
+    "changes" : -9.18,
+    "marketCapitalization" : 66016700
+  }, {
+    "ticker" : "WTC",
+    "name" : "Waltonchain",
+    "price" : 1.38368,
+    "changes" : -1.47,
+    "marketCapitalization" : 58395000
+  }, {
+    "ticker" : "DGD",
+    "name" : "DigixDAO",
+    "price" : 32.5922,
+    "changes" : 14.42,
+    "marketCapitalization" : 65184500
+  }, {
+    "ticker" : "LRC",
+    "name" : "Loopring",
+    "price" : 0.0664554,
+    "changes" : -2.73,
+    "marketCapitalization" : 62779400
+  }, {
+    "ticker" : "DGB",
+    "name" : "DigiByte",
+    "price" : 0.00701466,
+    "changes" : -2.37,
+    "marketCapitalization" : 87798100
+  }, {
+    "ticker" : "BAT",
+    "name" : "Basic Attention Token",
+    "price" : 0.221898,
+    "changes" : -5.85,
+    "marketCapitalization" : 300993000
+  }, {
+    "ticker" : "AION",
+    "name" : "Aion",
+    "price" : 0.195554,
+    "changes" : 1.43,
+    "marketCapitalization" : 62272800
+  }, {
+    "ticker" : "REP",
+    "name" : "Augur",
+    "price" : 11.4129,
+    "changes" : -5.3,
+    "marketCapitalization" : 125542000
+  }, {
+    "ticker" : "XIN",
+    "name" : "Mixin",
+    "price" : 222.219,
+    "changes" : -4.04,
+    "marketCapitalization" : 103072000
+  }, {
+    "ticker" : "KMD",
+    "name" : "Komodo",
+    "price" : 0.713542,
+    "changes" : -9.75,
+    "marketCapitalization" : 83539400
+  }, {
+    "ticker" : "ARDR",
+    "name" : "Ardor",
+    "price" : 0.0473298,
+    "changes" : -6.6,
+    "marketCapitalization" : 47282400
+  }, {
+    "ticker" : "ELF",
+    "name" : "aelf",
+    "price" : 0.0922172,
+    "changes" : -0.77,
+    "marketCapitalization" : 50210500
+  }, {
+    "ticker" : "MITH",
+    "name" : "Mithril",
+    "price" : 0.0705949,
+    "changes" : 1.94,
+    "marketCapitalization" : 34368400
+  }, {
+    "ticker" : "NOTE",
+    "name" : "DNotes",
+    "price" : 2.54893,
+    "changes" : 346.82,
+    "marketCapitalization" : 392180000
+  }, {
+    "ticker" : "LOOM",
+    "name" : "Loom Network",
+    "price" : 0.0813741,
+    "changes" : 2.56,
+    "marketCapitalization" : 64626500
+  }, {
+    "ticker" : "NAS",
+    "name" : "Nebulas",
+    "price" : 1.43634,
+    "changes" : -4.08,
+    "marketCapitalization" : 69845900
+  }, {
+    "ticker" : "ARK",
+    "name" : "Ark",
+    "price" : 0.559852,
+    "changes" : -0.31,
+    "marketCapitalization" : 63241200
+  }, {
+    "ticker" : "KCS",
+    "name" : "KuCoin Shares",
+    "price" : 1.08057,
+    "changes" : -5.39,
+    "marketCapitalization" : 88999300
+  }, {
+    "ticker" : "KNC",
+    "name" : "Kyber Network",
+    "price" : 0.323185,
+    "changes" : 17.39,
+    "marketCapitalization" : 53847400
+  }, {
+    "ticker" : "GAS",
+    "name" : "Gas",
+    "price" : 8.23719,
+    "changes" : 60.74,
+    "marketCapitalization" : 83429300
+  }, {
+    "ticker" : "PIVX",
+    "name" : "PIVX",
+    "price" : 0.921548,
+    "changes" : 0.53,
+    "marketCapitalization" : 52326600
+  }, {
+    "ticker" : "RDD",
+    "name" : "ReddCoin",
+    "price" : 0.00230087,
+    "changes" : -4.29,
+    "marketCapitalization" : 66285200
+  }, {
+    "ticker" : "WICC",
+    "name" : "WaykiChain",
+    "price" : 0.259072,
+    "changes" : -5.66,
+    "marketCapitalization" : 48964600
+  }, {
+    "ticker" : "SUB",
+    "name" : "Substratum",
+    "price" : 0.178403,
+    "changes" : -8.63,
+    "marketCapitalization" : 68332000
+  }, {
+    "ticker" : "CTXC",
+    "name" : "Cortex",
+    "price" : 0.33038,
+    "changes" : 1.82,
+    "marketCapitalization" : 49488400
+  }, {
+    "ticker" : "MONA",
+    "name" : "MonaCoin",
+    "price" : 0.949973,
+    "changes" : -6.08,
+    "marketCapitalization" : 62441400
+  }, {
+    "ticker" : "SYS",
+    "name" : "Syscoin",
+    "price" : 0.0978142,
+    "changes" : 6.21,
+    "marketCapitalization" : 52673200
+  }, {
+    "ticker" : "CENNZ",
+    "name" : "Centrality",
+    "price" : 0.158367,
+    "changes" : -7.44,
+    "marketCapitalization" : 168467000
+  }, {
+    "ticker" : "QASH",
+    "name" : "QASH",
+    "price" : 0.153433,
+    "changes" : -2.85,
+    "marketCapitalization" : 53701600
+  }, {
+    "ticker" : "NPXS",
+    "name" : "Pundi X",
+    "price" : 2.04315E-4,
+    "changes" : -1.27,
+    "marketCapitalization" : 47832600
+  }, {
+    "ticker" : "CNX",
+    "name" : "Cryptonex",
+    "price" : 1.84296,
+    "changes" : -3.89,
+    "marketCapitalization" : 102628000
+  }, {
+    "ticker" : "DRGN",
+    "name" : "Dragonchain",
+    "price" : 0.240251,
+    "changes" : 3.89,
+    "marketCapitalization" : 57281200
+  }, {
+    "ticker" : "BNT",
+    "name" : "Bancor",
+    "price" : 0.6474,
+    "changes" : -11.33,
+    "marketCapitalization" : 40674500
+  }, {
+    "ticker" : "GXS",
+    "name" : "GXChain",
+    "price" : 0.501727,
+    "changes" : 6.74,
+    "marketCapitalization" : 30103600
+  }, {
+    "ticker" : "ETHOS",
+    "name" : "Ethos",
+    "price" : 1.24701,
+    "changes" : 5.1,
+    "marketCapitalization" : 96458600
+  }, {
+    "ticker" : "STORM",
+    "name" : "Storm",
+    "price" : 0.021722,
+    "changes" : 10.4,
+    "marketCapitalization" : 97622200
+  }, {
+    "ticker" : "VERI",
+    "name" : "Veritaseum",
+    "price" : 16.8482,
+    "changes" : -6.22,
+    "marketCapitalization" : 36217600
+  }, {
+    "ticker" : "FUN",
+    "name" : "FunFair",
+    "price" : 0.0122788,
+    "changes" : 0.07,
+    "marketCapitalization" : 65886000
+  }, {
+    "ticker" : "WAX",
+    "name" : "WAX",
+    "price" : 0.0561308,
+    "changes" : 2.16,
+    "marketCapitalization" : 52921400
+  }, {
+    "ticker" : "NXT",
+    "name" : "Nxt",
+    "price" : 0.0302068,
+    "changes" : 5.63,
+    "marketCapitalization" : 30176600
+  }, {
+    "ticker" : "DCN",
+    "name" : "Dentacoin",
+    "price" : 1.4762E-4,
+    "changes" : -0.72,
+    "marketCapitalization" : 48245500
+  }, {
+    "ticker" : "FSN",
+    "name" : "Fusion",
+    "price" : 1.39688,
+    "changes" : 6.43,
+    "marketCapitalization" : 49330700
+  }, {
+    "ticker" : "FCT",
+    "name" : "Factom",
+    "price" : 5.82493,
+    "changes" : -3.0,
+    "marketCapitalization" : 56070300
+  }, {
+    "ticker" : "ELA",
+    "name" : "Elastos",
+    "price" : 4.46217,
+    "changes" : 0.12,
+    "marketCapitalization" : 69797800
+  }, {
+    "ticker" : "SALT",
+    "name" : "SALT",
+    "price" : 0.772418,
+    "changes" : -0.62,
+    "marketCapitalization" : 63686400
+  }, {
+    "ticker" : "GTO",
+    "name" : "Gifto",
+    "price" : 0.171439,
+    "changes" : 7.16,
+    "marketCapitalization" : 91511800
+  }, {
+    "ticker" : "ETN",
+    "name" : "Electroneum",
+    "price" : 0.00540626,
+    "changes" : 5.14,
+    "marketCapitalization" : 52653000
+  }, {
+    "ticker" : "ENG",
+    "name" : "Enigma",
+    "price" : 0.712045,
+    "changes" : 6.03,
+    "marketCapitalization" : 53286700
+  }, {
+    "ticker" : "XZC",
+    "name" : "ZCoin",
+    "price" : 5.57109,
+    "changes" : -1.69,
+    "marketCapitalization" : 47738100
+  }, {
+    "ticker" : "LINK",
+    "name" : "ChainLink",
+    "price" : 2.55041,
+    "changes" : -5.63,
+    "marketCapitalization" : 892642000
+  }, {
+    "ticker" : "POLY",
+    "name" : "Polymath",
+    "price" : 0.118469,
+    "changes" : -14.03,
+    "marketCapitalization" : 41276000
+  }, {
+    "ticker" : "POWR",
+    "name" : "Power Ledger",
+    "price" : 0.116454,
+    "changes" : 5.86,
+    "marketCapitalization" : 47146600
+  } ]
+}
