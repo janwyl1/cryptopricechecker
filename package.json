@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://janwyl1.github.io",
   "dependencies": {
-    "gh-pages": "^2.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0",
@@ -37,6 +36,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "cryptocurrency-icons": "^0.16.1",
+    "gh-pages": "^2.1.1",
     "jest-fetch-mock": "^2.1.2",
     "react-test-renderer": "^16.12.0"
   }
