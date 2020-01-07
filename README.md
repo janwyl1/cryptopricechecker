@@ -3,6 +3,8 @@
 #### Market information for 100 of the most popular cryptocurrencies.
 Pulls data from a free API and displays it using charts and a table. 
 
+## [LIVE DEMO](https://janwyl1.github.io/cryptopricechecker/)
+
   <img
     width="500"
     alt=""
