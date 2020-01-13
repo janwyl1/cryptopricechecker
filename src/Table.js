@@ -10,7 +10,7 @@ export function Table(props) {
     /* Toggle Asc/Desc state. Get id from <th> element and remove tbl- prefix */
     function handleSortByClick(e) {
       e.preventDefault();
-      setSortBy({ field: e.target.id.substring(4), desc: 1 - sortBy.desc })
+      setSortBy({ field: e.currentTarget.id.substring(4), desc: 1 - sortBy.desc }) // use currentTarget instead of target, so it still works when span is clicked
     }
     /* Determine which function to use for sorting currencies */
     function sortByFunc() {
@@ -37,7 +37,7 @@ export function Table(props) {
             <thead>
                 <tr>
                     <th>Icon</th>
-                    <th id="tbl-name" onClick={handleSortByClick}>Name <span className={"sort-icon " + (sortBy.desc === 1 ? "sort-icon-down" : "sort-icon-up")}>&#x27A4;</span></th>
+                    <th id="tbl-name" onClick={handleSortByClick}>Name <span className={"sort-icon " + (sortBy.desc === 1 ? "sort-icon-down" : "sort-icon-up") } >&#x27A4;</span></th>
                     <th id="tbl-ticker" onClick={handleSortByClick}>Ticker <span className={"sort-icon " + (sortBy.desc === 1 ? "sort-icon-down" : "sort-icon-up")}>&#x27A4;</span></th>
                     <th id="tbl-price" onClick={handleSortByClick}>Price <span className={"sort-icon " + (sortBy.desc === 1 ? "sort-icon-down" : "sort-icon-up")}>&#x27A4;</span></th>
                     <th id="tbl-changes" onClick={handleSortByClick}>Change <span className={"sort-icon " + (sortBy.desc === 1 ? "sort-icon-down" : "sort-icon-up")}>&#x27A4;</span></th>  
