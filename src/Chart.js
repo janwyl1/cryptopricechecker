@@ -73,7 +73,7 @@ export function PriceChart(props) {
 export function GainersChart(props) {
     return (
         <VictoryChart domainPadding={10} theme={VictoryTheme.material} height={350} width={450}>
-        <VictoryLabel text="Top 10 Gainers by % Increase" x={225} y={30} textAnchor="middle"/>
+        <VictoryLabel text="Top 10 Gainers by Price Increase (%)" x={225} y={30} textAnchor="middle"/>
             <VictoryAxis  />
             <VictoryAxis dependentAxis tickFormat={(x) => (`${x}%`)}   />
             <VictoryBar 
@@ -97,7 +97,7 @@ export function GainersChart(props) {
 export function LosersChart(props) {
     return (
         <VictoryChart domainPadding={10} theme={VictoryTheme.material} height={350} width={450} offsetY={300} style={{parent: {marginTop: "40px" }}}>
-        <VictoryLabel text="Top 10 Losers by % Decrease" x={225} y={10} textAnchor="middle"/>
+        <VictoryLabel text="Top 10 Losers by Price Decrease (%)" x={225} y={10} textAnchor="middle"/>
             <VictoryAxis    />
             <VictoryAxis dependentAxis  tickFormat={(x) => (`${x}%`)}   />
             <VictoryBar 
