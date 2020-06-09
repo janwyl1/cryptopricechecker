@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/cryptopricechecker/static/css/main.4b4c270c.chunk.css",
-    "main.js": "/cryptopricechecker/static/js/main.382266c3.chunk.js",
-    "main.js.map": "/cryptopricechecker/static/js/main.382266c3.chunk.js.map",
+    "main.js": "/cryptopricechecker/static/js/main.acb9505d.chunk.js",
+    "main.js.map": "/cryptopricechecker/static/js/main.acb9505d.chunk.js.map",
     "runtime-main.js": "/cryptopricechecker/static/js/runtime-main.cba54afa.js",
     "runtime-main.js.map": "/cryptopricechecker/static/js/runtime-main.cba54afa.js.map",
-    "static/js/2.b70271d8.chunk.js": "/cryptopricechecker/static/js/2.b70271d8.chunk.js",
-    "static/js/2.b70271d8.chunk.js.map": "/cryptopricechecker/static/js/2.b70271d8.chunk.js.map",
+    "static/js/2.bcbf357c.chunk.js": "/cryptopricechecker/static/js/2.bcbf357c.chunk.js",
+    "static/js/2.bcbf357c.chunk.js.map": "/cryptopricechecker/static/js/2.bcbf357c.chunk.js.map",
     "index.html": "/cryptopricechecker/index.html",
-    "precache-manifest.5cda3f29bcad57690e092ee27d958dec.js": "/cryptopricechecker/precache-manifest.5cda3f29bcad57690e092ee27d958dec.js",
+    "precache-manifest.6104498f3de4eba7ad7ad906ee99e7c6.js": "/cryptopricechecker/precache-manifest.6104498f3de4eba7ad7ad906ee99e7c6.js",
     "service-worker.js": "/cryptopricechecker/service-worker.js",
     "static/css/main.4b4c270c.chunk.css.map": "/cryptopricechecker/static/css/main.4b4c270c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.cba54afa.js",
-    "static/js/2.b70271d8.chunk.js",
+    "static/js/2.bcbf357c.chunk.js",
     "static/css/main.4b4c270c.chunk.css",
-    "static/js/main.382266c3.chunk.js"
+    "static/js/main.acb9505d.chunk.js"
   ]
 }

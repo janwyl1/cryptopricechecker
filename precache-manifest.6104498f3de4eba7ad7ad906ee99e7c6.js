@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7fe26327cf053e0b7ed078bcbad796b",
+    "revision": "7dd79921cc5fac3ac65525cb6247b5d9",
     "url": "/cryptopricechecker/index.html"
   },
   {
-    "revision": "c26481976963ab9d99ca",
+    "revision": "32434a3e8e4eb85cc873",
     "url": "/cryptopricechecker/static/css/main.4b4c270c.chunk.css"
   },
   {
-    "revision": "43c941a720f96893e9ce",
-    "url": "/cryptopricechecker/static/js/2.b70271d8.chunk.js"
+    "revision": "54facf78f13cff09ca21",
+    "url": "/cryptopricechecker/static/js/2.bcbf357c.chunk.js"
   },
   {
-    "revision": "c26481976963ab9d99ca",
-    "url": "/cryptopricechecker/static/js/main.382266c3.chunk.js"
+    "revision": "32434a3e8e4eb85cc873",
+    "url": "/cryptopricechecker/static/js/main.acb9505d.chunk.js"
   },
   {
     "revision": "331e950fc645d1555924",
