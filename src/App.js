@@ -4,7 +4,7 @@ import {PriceChart, MarketCapChart, GainersChart, LosersChart} from './Chart';
 import {Table} from './Table';
 
 // api docs - https://financialmodelingprep.com/developer/docs/#Cryptocurrencies
-const API = 'https://financialmodelingprep.com/api/v3/cryptocurrencies';
+const API = 'https://financialmodelingprep.com/api/v3/cryptocurrencies?apikey=37c733742978384844d555497f38d299';
 // const API = 'http://localhost:3000/dummy/cryptocurrencies.json';
 
 
